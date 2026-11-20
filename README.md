@@ -41,6 +41,8 @@ Locked-in parameters/assumptions:
   - No phase change will occur (both oil and hexane remain liquid inside heat exchanger; subsequent step is a flash tank in which the hexane will vaporize)
   - For simplicity heat exchanger is assumed to be well-insulated, therefore no heat is lost to the surrounding environment
 ​​
+
+
 **Model #2**
 Sensitivity analysis to determine robustness of heat exchanger design.
 
